@@ -13,4 +13,5 @@ Implementation of the perceptron which performs linear separation
 ## License & copyright
 
 © Yurii Khomiak
+
 Licensed under the [MIT License](LICENSE).
