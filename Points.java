@@ -1,3 +1,9 @@
+// Perceptron
+// Copyright (C) 2018 Yurii Khomiak
+// Yurii Khomiak licenses this file to you under the MIT license.
+// See the LICENSE file in the project root for more information.
+
+
 class Points {
     private float points[][]; // Array, which contains certain number of points {x1, x2}
     private byte type[]; // Array, which contains types of points
